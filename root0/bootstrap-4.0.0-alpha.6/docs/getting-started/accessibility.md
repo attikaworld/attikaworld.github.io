@@ -16,10 +16,7 @@ Bootstrap follows common web standards and—with minimal extra effort—can be 
 
 Some common HTML elements are always in need for basic accessibility enhancements through `role`s and Aria attributes. Below is a list of some of the most frequently used ones.
 
-### Button groups
 
-In order for assistive technologies–such as screen readers–to convey that a series of buttons is grouped, an appropriate `role` attribute needs to be provided. For button groups, this would be `role="group"`, while toolbars should have a `role="toolbar"`.
-In addition, groups and toolbars should be given an explicit label, as most assistive technologies will otherwise not announce them, despite the presence of the correct `role` attribute. In the examples provided here, we use `aria-label`, but alternatives such as `aria-labelledby` can also be used.
 
 ## Skip navigation
 
