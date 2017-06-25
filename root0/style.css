@@ -4,9 +4,13 @@
 
 .colcol {
   border: 1px solid black;
-  /* height: 20rem;
+  /* height: 20rem; */
 }
 
+.colcol-hero {
+  /*  border: 1px solid black; */
+ height: 20rem; 
+}
 
 
 /* Document level adjustments */
