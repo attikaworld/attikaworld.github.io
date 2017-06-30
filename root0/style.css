@@ -1,4 +1,4 @@
-.container, .container-fluid {
+.container-fluid {
   background-color: aqua;
 }
 
@@ -9,9 +9,8 @@
 
 .colcol-hero {
   /*  border: 1px solid black; */
- height: 20rem; 
+ height: 20rem;
 }
-
 
 /* Document level adjustments */
 html {
