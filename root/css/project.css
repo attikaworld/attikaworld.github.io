@@ -1,9 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,300italic,400,400italic,500,500italic);
 body {
-  padding-bottom: 0px;
+  padding-bottom: 69px;
 }
-}
-
 
 .ui-content-header {
   background-position: 50% 50%;
@@ -14,7 +12,7 @@ body {
   padding-bottom: 58px;
 }
 .page-brand .ui-content-header {
-  background-image: url(./images/1.jpg);
+  background-image: url(./images/bg/brand.jpg);
 }
 
 .ui-footer {

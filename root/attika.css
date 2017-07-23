@@ -1,9 +1,9 @@
 /* Header Parallax Element Style*/
 .paral {
-min-height: 100%;
+min-height: 700px;
 background-attachment: fixed;
 background-size: cover;
-background-position: 100% 100%;
+background-position: 50% 50%;
 }
 
 
