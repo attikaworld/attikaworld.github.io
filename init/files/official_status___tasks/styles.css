@@ -344,10 +344,10 @@
   -ms-transform:rotate(315deg);
   transform:rotate(315deg);
   word-wrap:break-word;
-  transform-origin:8px 7.5px;
-  -ms-transform-origin:8px 7.5px;
-  -moz-transform-origin:8px 7.5px;
-  -webkit-transform-origin:8px 7.5px;
+  transform-origin:8px 7,5px;
+  -ms-transform-origin:8px 7,5px;
+  -moz-transform-origin:8px 7,5px;
+  -webkit-transform-origin:8px 7,5px;
 }
 #u1644_img {
   position:absolute;
